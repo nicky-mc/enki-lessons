@@ -1,6 +1,6 @@
-**\## C++ Basics**
+**C++ Basics**
 
-**\# Introduction**
+**Introduction**
 
 C++ is a powerful, high-performance programming language that extends the C programming language with object-oriented, generic, and functional programming features. It is widely used in system/software development, game development, embedded systems, and competitive programming.
 
