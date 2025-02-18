@@ -8,6 +8,7 @@ This repository is where I consolidate my learnings in programming through **Enk
 
 - 📌 Keep a record of what I learn.
 - 🧠 Reinforce key programming concepts.
+- continue learning post Bootcamp
 - 💻 Experiment with code and build small projects.
 - 🔍 Serve as a reference for future use.
 
